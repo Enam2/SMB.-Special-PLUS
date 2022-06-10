@@ -1,0 +1,2 @@
+floorslope = -1
+ceilingslope = 0
