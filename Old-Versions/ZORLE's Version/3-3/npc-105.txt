@@ -1,0 +1,5 @@
+gfxoffsety=0
+gfxwidth=128
+gfxheight=23
+width=128
+height=17
