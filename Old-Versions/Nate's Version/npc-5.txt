@@ -1,0 +1,7 @@
+height=56
+width=64
+gfxheight=56
+gfxwidth=64
+grabside=0
+noyoshi=1
+score=3

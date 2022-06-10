@@ -1,0 +1,2 @@
+nofireball=1
+noiceball=1

@@ -1,0 +1,5 @@
+gfxoffsety=2
+nofireball=1
+noiceball=1
+noyoshi=1
+score=3

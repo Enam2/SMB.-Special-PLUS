@@ -1,0 +1,5 @@
+gfxwidth=32
+gfxheight=54
+width=28
+height=28
+scripts=goomba
