@@ -1,0 +1,3 @@
+framestyle=0
+framespeed=8
+frames=4

@@ -1,0 +1,15 @@
+{
+	"style" : "groupbox",
+	"title" : "Top Burner Settings",
+	"layout": [
+		{
+			"control": "combobox",
+			"name": "rState",
+			"title": "Rotation State",
+			"tooltip": "Starting rotation state for the Rotating Burner.",
+			"elements": ["0 Degrees", "90 Degrees", "180 Degrees", "270 Degrees"],
+			"value-default": 0
+		}
+	]
+}
+
