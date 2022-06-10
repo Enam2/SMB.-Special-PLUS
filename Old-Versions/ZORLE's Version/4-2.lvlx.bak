@@ -1,0 +1,17 @@
+HEAD
+TL:"4-2";CPID:"SMBX2";
+HEAD_END
+SECTION
+SC:0;L:-200000;R:-199200;T:-200600;B:-200000;MZ:24;MF:"All around used music/102 Overworld.spc|0\;t=0.9\;g=2";BG:8;
+SC:1;L:-180000;R:-179200;T:-180600;B:-180000;MZ:24;MF:"All around used music/105 Underworld.spc|0\;g=2";BG:29;XTRA:"{\n    \"darkness\"\: {\n        \"ambient\"\: \"#44444432\"\,\n        \"enableDarkness\"\: true\,\n        \"falloff\"\: 4\,\n        \"playerlight\"\: {\n            \"enabled\"\: true\,\n            \"flicker\"\: true\n        }\n    }\,\n    \"effects\"\: {\n        \"weather\"\: 6\n    }\n}\n";
+SECTION_END
+LAYERS
+LR:"Default";
+LR:"Destroyed Blocks";HD:1;
+LR:"Spawned NPCs";
+LAYERS_END
+EVENTS_CLASSIC
+ET:"Level - Start";AS:0;AX:0;AY:0;
+ET:"P Switch - Start";AS:0;AX:0;AY:0;
+ET:"P Switch - End";AS:0;AX:0;AY:0;
+EVENTS_CLASSIC_END

@@ -1,0 +1,4 @@
+gfxoffsety=0
+gfxheight=305
+height=305
+frames=1
