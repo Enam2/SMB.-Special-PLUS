@@ -1,0 +1,5 @@
+noyoshi=1
+frames=2
+framespeed=8
+nohammer=1
+noshell=1
